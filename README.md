@@ -69,7 +69,7 @@
 
 #### Quick Install (Kali)
 ```bash
-git clone https://github.com/yourusername/ddosify.git
+git clone 
 cd ddosify
 
 # Install dependencies using Kali package manager
