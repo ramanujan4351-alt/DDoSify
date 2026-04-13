@@ -1,0 +1,5 @@
+# DDoSify Advanced Requirements
+scapy>=2.4.5
+requests>=2.25.0
+psutil>=5.8.0
+dnspython>=2.2.0
